@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archangled</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Archangled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>user@example.com (Your Name)</managingEditor>
+    <webMaster>user@example.com (Your Name)</webMaster>
+    <copyright>© Archangled</copyright><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skycrest</title>
+      <link>//localhost:1313/skycrest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>//localhost:1313/skycrest/</guid>
+        <media:content url="//localhost:1313/skycrest/w1-1_hu_d9f87bb19911e5d.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/skycrest/w1-1_hu_d9f87bb19911e5d.JPG&quot; /&gt;
+          &lt;p&gt;Let&#39;s write more details about this project. History, what we did, how much time did we take, why we chose these wallpapers, why are we having these colours, what materials did we use?&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Warmstone</title>
+      <link>//localhost:1313/warmstone/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>//localhost:1313/warmstone/</guid>
+        <media:content url="//localhost:1313/warmstone/n1-1_hu_edeca2ad50870fed.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/warmstone/n1-1_hu_edeca2ad50870fed.JPG&quot; /&gt;
+          &lt;p&gt;This is your home. Please suggest what to put here. :)&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Lift and Light</title>
+      <link>//localhost:1313/lift-and-light/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>user@example.com (Your Name)</author>
+      <guid>//localhost:1313/lift-and-light/</guid>
+        <media:content url="//localhost:1313/lift-and-light/w2-1_hu_df491a7a0f17ec37.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/lift-and-light/w2-1_hu_df491a7a0f17ec37.JPG&quot; /&gt;
+          &lt;p&gt;Let&#39;s write more details about this project. History, what we did, how much time did we take, why we chose these wallpapers, why are we having these colours, what materials did we use?&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
